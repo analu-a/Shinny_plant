@@ -70,3 +70,33 @@ h3{
     height: 12vh;
     align-items: end;
 }
+
+.maisUtilizados{
+    height: 20vh;
+    width: 100vw;
+    display: flex;
+    justify-content: flex-end;
+    gap: 24px;
+    padding-right: 80px;
+}
+
+.um{
+    height: 20vh;
+    width: 8vw;
+    background-color: #668243;
+    border-radius: 14px;
+}
+
+.dois{
+    height: 20vh;
+    width: 8vw;
+    background-color: #668243;
+    border-radius: 14px;
+}
+
+.tres{
+    height: 20vh;
+    width: 8vw;
+    background-color: #668243;
+    border-radius: 14px;
+}
